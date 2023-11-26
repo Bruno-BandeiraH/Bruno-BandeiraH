@@ -1,6 +1,6 @@
 ### Oopa! Eu sou o Bruno Bandeira
 
-- 🌱 Estudando: Git, GitHub, HTML, CSS, JavaScript, Node.JS, SQL e MYSQL.
+- 🌱 Estudando: Git, GitHub, java, Spring boot, SQL e MYSQL.
 
 <div>
   <a href="https://github.com/Bruno-BandeiraH/Bruno-BandeiraH/">
