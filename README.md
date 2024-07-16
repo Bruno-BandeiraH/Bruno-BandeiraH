@@ -1,22 +1,15 @@
-### Oopa! Eu sou o Bruno Bandeira
-
-- 🌱 Estudando: Git, GitHub, java, Spring boot, SQL e MYSQL.
-
-<div>
-  <a href="https://github.com/Bruno-BandeiraH/Bruno-BandeiraH/">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=bruno-bandeirah&show_icons=true&theme=gruvbox"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bandeirah&show_icons=true&theme=gruvbox"/>
-</div>
+# 💫 About Me:
+👯 I’m looking to collaborate on Java projetcts<br>🤝 I’m looking for help with Junit, mockito and cucumber<br>🌱 I’m currently learning algorithms, data structures, Java, Spring boot, MySQL, Junit and Mockito<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunohbandeira) 
 
- ##
- 
-<div>
-  <a href = "mailto:brunohenrique0665@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunohbandeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-          
-          
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bruno-BandeiraH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bruno-BandeiraH&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-BandeiraH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
